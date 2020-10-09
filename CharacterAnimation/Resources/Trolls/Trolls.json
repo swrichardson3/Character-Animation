@@ -1,0 +1,26 @@
+{
+    "trolls" : [
+        {
+            "name" : "Troll1",
+            "walkSpeed" : 50,
+            "runSpeed" : 150
+        },
+        {
+            "name" : "Troll2",
+            "walkSpeed" : 50,
+            "runSpeed" : 150
+        },
+        {
+            "name" : "Troll3",
+            "walkSpeed" : 50,
+            "runSpeed" : 150
+        }
+    ]
+}
+            
+            
+            
+            
+            
+            
+            
